@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @meemsign
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+www.meemsign.co
+www.memesin.co
 
-<!---
-meemsign/meemsign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fredy Tjoa
+cofounder of Meemsign Autograph NFT
+
 Get Meemsign Autograph NFT From Influencers, Celebgrams, Celebrities, And Other Idols
 
 The Wonderous Bridge Between Fans And Idols
